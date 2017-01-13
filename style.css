@@ -1,0 +1,27 @@
+body {
+	background: #f0f0e0;
+}
+
+#title {
+	background-color: #696969;
+	color: #FFFFFF;
+	text-align: center;
+	padding: 1em;
+	margin: 0;
+}
+
+#student {
+	width: 100%;
+}
+
+#student-info {
+	float: left;
+	margin: 1%;
+	width: 58%;
+}
+
+#contact {
+	float: right;
+	width: 38%;
+	margin: 1%;
+}
